@@ -6,6 +6,7 @@ Completion time: 5hrs.
 
 Two biggest challenges were remembering to create the cocoa touch class document for viewcontrolers that included code to perform neccessary functions and giving them the proper class name.
 
-c1codepath-dropbox/Homework1.gif
+![alt tag](https://github.com/dalambdin/c1codepath-dropbox/blob/master/Homework1.gif)
+
 
 

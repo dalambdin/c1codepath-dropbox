@@ -1,19 +1,8 @@
-# c1codepath-dropbox
-Week 1 homework
-
-Completed all required stories.
-Completion time: 5hrs.
-
-Two biggest challenges were remembering to create the cocoa touch class document for viewcontrolers that included code to perform neccessary functions and giving them the proper class name.
-
-![alt tag](https://github.com/dalambdin/c1codepath-dropbox/blob/master/Homework1.gif)
-
-
 ## Dropbox
 
 The purpose of this homework is to use Xcode to implement the flow between the screens of an application. We're going to use the techniques from this week to implement the Dropbox app from the signed out state to the basic signed in state.
 
-Time spent: `<5>`
+Time spent: `5hrs`
 
 ### Features
 
